@@ -1,0 +1,14 @@
+E:\ungdungchuyendoitiente\bin\Debug\net8.0\ungdungchuyendoitiente.exe
+E:\ungdungchuyendoitiente\bin\Debug\net8.0\ungdungchuyendoitiente.deps.json
+E:\ungdungchuyendoitiente\bin\Debug\net8.0\ungdungchuyendoitiente.runtimeconfig.json
+E:\ungdungchuyendoitiente\bin\Debug\net8.0\ungdungchuyendoitiente.dll
+E:\ungdungchuyendoitiente\bin\Debug\net8.0\ungdungchuyendoitiente.pdb
+E:\ungdungchuyendoitiente\obj\Debug\net8.0\ungdungchuyendoitiente.GeneratedMSBuildEditorConfig.editorconfig
+E:\ungdungchuyendoitiente\obj\Debug\net8.0\ungdungchuyendoitiente.AssemblyInfoInputs.cache
+E:\ungdungchuyendoitiente\obj\Debug\net8.0\ungdungchuyendoitiente.AssemblyInfo.cs
+E:\ungdungchuyendoitiente\obj\Debug\net8.0\ungdungchuyendoitiente.csproj.CoreCompileInputs.cache
+E:\ungdungchuyendoitiente\obj\Debug\net8.0\ungdungchuyendoitiente.dll
+E:\ungdungchuyendoitiente\obj\Debug\net8.0\refint\ungdungchuyendoitiente.dll
+E:\ungdungchuyendoitiente\obj\Debug\net8.0\ungdungchuyendoitiente.pdb
+E:\ungdungchuyendoitiente\obj\Debug\net8.0\ungdungchuyendoitiente.genruntimeconfig.cache
+E:\ungdungchuyendoitiente\obj\Debug\net8.0\ref\ungdungchuyendoitiente.dll
